@@ -57,7 +57,8 @@ center {
 button {
     padding: 8px;
     margin: 8px;
-    font-size: 16px;
+    /* font-size: 16px; */
+    font-weight: 700;
     font-family: monospace;
     color: lightslategrey;
     background: #f2f2f2;

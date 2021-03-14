@@ -1,4 +1,4 @@
 The Odin Project Course
-Basic Project
-=> This project demostrate basic HTML and CSS skills
-=> To build Google search Homepage
+Basic Project: Google search Homepage
+This project demostrate basic HTML and CSS skills
+Preview Link: https://profsain.github.io/google-homepage/
